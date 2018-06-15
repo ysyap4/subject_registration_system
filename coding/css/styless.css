@@ -1,0 +1,162 @@
+#title{
+width:390px;
+
+margin-left: 460px;
+margin-top:-82px;
+font-size: 25px;
+font-weight: 50;
+}
+
+
+
+
+
+body{
+
+background-image:  linear-gradient(
+      rgba(0, 0, 0, 0.6), 
+      rgba(0, 0, 0, 0.6)
+    ), url('../image/Library.jpg');
+background-size:cover; 
+background-repeat: no-repeat;
+height: 931px;
+
+}
+
+#kotakhitam
+{
+  
+       top: 0; 
+       left: 0; 
+	   height: 1100;
+       background-color:  rgba(0, 0, 0, 0.6);
+       width: 100%; 
+}
+
+#banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       background-color: white; 
+       width: 100%; 
+     }
+ #banner-content { 
+       width: 800px; 
+       margin: 0 auto; 
+       padding: 10px; 
+       border: 0px solid #000;
+	   font-size: 30px;
+	   text-align: center;
+	   font-weight: bold;
+     }
+#some{
+
+
+
+width: 1000px;
+padding-top: 70px;
+margin: auto;
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
+}
+
+#login{
+
+width: 300px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-color: rgba(230,230,230,0.8);
+padding: 10px;
+margin-left: 680px;
+margin-top: 21px;
+border-radius: 2em;
+
+}
+
+#content{
+
+width: 500px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+
+padding-bottom: 60px;
+margin-left: 80px;
+margin-top: -240px;
+border-radius: 2em;
+color: white;
+font-size: 60px;
+}
+
+#content-side{
+
+width: 500px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+
+padding-bottom: 60px;
+margin-left: 80px;
+margin-top: -40px;
+border-radius: 2em;
+color: white;
+font-size: 30px;
+font-weight: bold;
+}
+
+
+#color{
+color: white;
+border-color: #66CCFF;
+	background-color: #66CCFF;
+    border-radius: 10px;
+    border-style :solid ;
+
+	padding: 10px;
+	
+	 
+    text-decoration:none;background-position:0 -15px;-webkit-transition:background-position 0.1s linear;-moz-transition:background-position 0.1s linear;
+    -o-transition:background-position 0.1s linear;transition:background-position 0.1s linear;
+	
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+.erk {
+	border-color: #66CCFF;
+	background-color: #66CCFF;
+    border-radius: 10px;
+    border-style :solid ;
+	font-size: 15px;
+	text-decoration: none;
+    
+    text-align: center;
+    width:60px;
+	height: 15px;
+    
+	margin-left: 10px;
+    margin-top: 0px;
+    padding: 10px;
+	
+    left:50%;
+    color : white;
+    
+}
+

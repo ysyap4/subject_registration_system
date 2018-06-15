@@ -1,0 +1,139 @@
+body{
+
+background-image:  linear-gradient(
+      rgba(0, 0, 0, 0.6), 
+      rgba(0, 0, 0, 0.6)
+    ), url('../image/Library.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+
+#banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       background-color: white; 
+       width: 100%; 
+     }
+ #banner-content { 
+       width: 800px; 
+       margin: 0 auto; 
+       padding: 10px; 
+       border: 0px solid #000;
+	   font-size: 30px;
+	   text-align: center;
+	   font-weight: bold;
+     }
+#some{
+
+
+
+width: 1000px;
+padding-top: 70px;
+margin: auto;
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
+}
+
+#login{
+
+width: 300px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-color: rgba(230,230,230,0.8);
+padding: 10px;
+margin-left: 680px;
+margin-top: 21px;
+border-radius: 2em;
+
+}
+
+#login{
+
+width: 600px;
+height: 360px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-color: rgba(230,230,230,0.8);
+padding: 10px;
+margin-left: 200px;
+margin-top: 121px;
+border-radius: 2em;
+
+}
+
+#info{
+
+width: 400px;
+height: 160px;
+
+padding: auto;
+
+padding: 10px;
+margin-left: 100px;
+margin-top: 0px;
+font-size: 20px;
+font-weight: 10px;
+
+}
+
+
+
+#title{
+
+
+color: #3399FF;
+font-size: 40px;
+
+}
+
+
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+.erk {
+	border-color: #66CCFF;
+	background-color: #66CCFF;
+    border-radius: 10px;
+    border-style :solid ;
+	font-size: 15px;
+	text-decoration: none;
+    
+    text-align: center;
+    width:60px;
+	height: 15px;
+    
+	margin-left: 200px;
+    margin-top: 800px;
+    padding: 10px;
+	
+    
+    color : white;
+    
+}
+
+#position{
+
+margin-top: -50px;
+}
+
+

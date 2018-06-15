@@ -1,0 +1,77 @@
+body{
+
+background-image:  linear-gradient(
+      rgba(0, 0, 0, 0.6), 
+      rgba(0, 0, 0, 0.6)
+    ), url('../image/Library.jpg');
+background-size: cover;
+
+
+
+}
+
+#banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       background-color: white; 
+       width: 100%; 
+     }
+ #banner-content { 
+       width: 800px; 
+       margin: 0 auto; 
+       padding: 10px; 
+       border: 0px solid #000;
+	   font-size: 30px;
+	   text-align: center;
+	   font-weight: bold;
+     }
+#some{
+
+
+
+width: 1000px;
+padding-top: 10px;
+margin: auto;
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
+}
+
+
+
+#login{
+
+width: 400px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+background-color: rgba(230,230,230,0.8);
+padding: 10px;
+margin-left: 305px;
+margin-top: 21px;
+border-radius: 2em;
+
+}
+
+#title{
+
+width: 500px;
+
+padding: auto;
+border: 0px solid #dedede;
+
+background-size: 100% 100%;
+
+padding: 10px;
+margin-left: 320px;
+margin-top: 21px;
+color: white;
+font-size: 30px;
+
+}
